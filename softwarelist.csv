@@ -1,8 +1,8 @@
 Software Name,B30A PCs,B30B PCs,Circ Dell Laptops,Circ Macbook Pros,Email Kiosks,iMacs,Research PCs,Stone Classroom PCs
 ,,,,,,,,
 7-Zip, X, X,,,,, X, X
-ABBYY FineReader 6, X, X,,,,, X, X
-Access 2010 (Microsoft Office), X, X, X,,,, X, X
+Access 2010 (Microsoft Office),,, X,,,,,
+Access 2013 (Microsoft Office), X, X,,,,, X, X
 Acrobat CS5.5 (Adobe),,, X,,,,,
 Acrobat CS6 (Adobe), X, X,, X,, X, X, X
 Acrobat Distiller X (Adobe), X, X,,,,, X, X
@@ -12,7 +12,7 @@ Adobe Reader,,, X,, X,,,
 Adobe Shockwave Player, X, X, X,,,, X, X
 ArcGIS Desktop 10.1, X, X,,,,, X, X
 Atlas.ti 7.0 (Scientific Software), X, X,,,,, X, X
-AutoCAD 2012, X, X,,,,, X, X
+AutoCAD 2014, X, X,,,,, X, X
 Box for Office, X, X,,,,, X, X
 CambridgeSoft ChemBioDraw Ultra, X, X,,,,, X, X
 CBGP -GeneClass2, X, X,,,,, X, X
@@ -26,10 +26,9 @@ Dreamweaver CS6 (Adobe), X, X,, X,, X, X, X
 DVD Player,,,, X,, X,,
 EndNote X3,,,, X,, X,,
 EndNote X4, X, X,,,,, X, X
-EPISUITE 4.0, X, X,,,,, X, X
-EPSON Scan, X, X,,,,, X, X
 Evernote v., X, X,,,,, X, X
-Excel 2010 (Microsoft Office), X, X, X,,,, X, X
+Excel 2010 (Microsoft Office),,, X,,,,,
+Excel 2013 (Microsoft Office), X, X,,,,, X, X
 Excel 2011 (Microsoft Office),,,, X,, X,,
 Excel Viewer,,,,, X,,,
 FileZilla (FTP client), X, X, X, X,, X, X, X
@@ -43,25 +42,23 @@ Garage Band,,,, X,, X,,
 Google Chrome, X, X, X, X, X, X, X, X
 Google Earth, X, X,,,,, X, X
 Google SketchUp, X, X,,,,, X, X
-Groove 2010 (Microsoft Office), X, X,,,,, X, X
 Illustrator CS5.5 (Adobe),,, X,,,,,
 Illustrator CS6 (Adobe), X, X,, X,, X, X, X
 ImageJ, X, X,,,,, X, X
 iMovie,,,, X,, X,,
 InDesign CS5.5 (Adobe),,, X,,,,,
 InDesign CS6 (Adobe), X, X,, X,, X, X, X
-InfoPath 2010 (Microsoft Office), X, X, X,,,, X, X
 Inverse-Forward, X, X,,,,, X, X
 iPhoto,,,, X,, X,,
 iTunes, X, X, X, X, X, X, X, X
 Java, X, X,,, X,, X, X
-JMP 9, X, X,,,,, X, X
+JMP 10, X, X,,,,, X, X
 Kerberos Ticket Viewer, X, X, X,,,, X, X
 Keynote,,,, X,, X,,
 LDNe, X, X,,,,, X, X
 Manifold System, X, X,,,,, X, X
 MARK, X, X,,,,, X, X
-MATLAB R2012a, X, X,,,,, X, X
+MATLAB R2013a, X, X,,,,, X, X
 MATLAB(R) Compiler Runtime, X, X,,,,, X, X
 Mauve, X, X,,,,, X, X
 Maxima, X, X,,,,, X, X
@@ -74,9 +71,10 @@ NED2, X, X,,,,, X, X
 Net-Print (Mac),,,, X,, X,,
 Net-Print x64, X, X,,,,, X, X
 Net-Print x86,,, X,,,,,
+NotePad ++, X, X,,,,, X, X
 NEURON, X, X,,,,, X, X
 Numbers,,,, X,, X,,
-OneNote 2010 (Microsoft Office), X, X, X,,,, X, X
+OneNote 2013 (Microsoft Office), X, X, X,,,, X, X
 OpenBUGS, X, X,,,,, X, X
 OSX 10.8.2,,,, X,, X,,
 Pages,,,, X,, X,,
@@ -85,29 +83,29 @@ Photoshop CS5.5 (Adobe),,, X,,,,,
 Photoshop CS6 (Adobe), X, X,, X,, X, X, X
 PMP70, X, X,,,,, X, X
 Populus, X, X,,,,, X, X
-PowerPoint 2010 (Microsoft Office), X, X, X,,,, X, X
+PowerPoint 2010 (Microsoft Office),,, X,,,,,
+PowerPoint 2013 (Microsoft Office), X, X,,,,, X, X
 PowerPoint 2011 (Microsoft Office),,,, X,, X,,
 PowerPoint Viewer,,,,, X,,,
 Premier Literacy Suite 32 Bit, X, X,,,,, X, X
-Publisher 2010 (Microsoft Office), X, X, X,,,, X, X
+Publisher 2010 (Microsoft Office),,, X,,,,,
+Publisher 2013 (Microsoft Office), X, X,,,,, X, X
 Python, X, X,,,,, X, X
 Quicktime Player, X, X, X, X, X, X, X, X
-R 2.15 for Windows, X, X,,,,, X, X
+R 3.0.1 for Windows, X, X,,,,, X, X
 RefWorks Write-N-Cite III, X, X,,,,, X, X
-Remote Desktop,,,, X,, X,,
+Remote Desktop, X, X,, X,, X, X, X
 Roxio Creator, X, X,,,,, X, X
 RStudio, X, X,,,,, X, X
 RUSLE2, X, X,,,,, X, X
 Safari,,,, X,, X,,
 SAS 9.3 (Windows), X, X,,,,, X, X
 SAS Enterprise Guide, X, X,,,,, X, X
-SciFinder Scholar Toolbar, X, X,,,,, X, X
 SheepSim, X, X,,,,, X, X
-SPSS 20, X, X,,,,, X, X
+SPSS 21, X, X,,,,, X, X
 Stand Visualization System, X, X,,,,, X, X
-STATA Intercooled 11 (Windows), X, X,,,,, X, X
+STATA Intercooled 13 (Windows), X, X,,,,, X, X
 Symantec Endpoint Protection, X, X, X, X, X, X, X, X
-TPS Financial Worksheets, X, X,,,,, X, X
 Tropcrop, X, X,,,,, X, X
 U-CARE, X, X,,,,, X, X
 Vensim Model Reader, X, X,,,,, X, X
@@ -117,6 +115,7 @@ VLC Media Player, X, X, X,, X,, X, X
 Vortex 9.99, X, X,,,,, X, X
 Windows 7 Enterprise 64 bit, X, X,,,,, X, X
 Windows 7 Pro 32-bit,,, X,, X,,,
-Word 2010 (Microsoft Office), X, X, X,,,, X, X
+Word 2010 (Microsoft Office),,, X,,,,,
+Word 2013 (Microsoft Office), X, X,,,,, X, X
 Word 2011 (Microsoft Office),,,, X,, X,,
 Word Viewer,,,,, X,,,
