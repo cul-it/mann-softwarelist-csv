@@ -1,11 +1,11 @@
 Software Name,B30A PCs,B30B PCs,Circ Dell Laptops,Circ Macbook Pros,Email Kiosks,iMacs,Research PCs,Stone Classroom PCs
 ,,,,,,,,
-7-Zip, X, X, X,,,, X, X
-Access 2013 (Microsoft Office), X, X, X,,,, X, X
-Acrobat CS6 (Adobe), X, X, X, X,, X, X, X
+7-Zip, X, X,,,,, X, X
+Access 2013 (Microsoft Office), X, X,,,,, X, X
+Acrobat CS6 (Adobe), X, X,, X,, X, X, X
 Active Perl, X, X,,,,, X, X
 ADMB, X, X,,,,, X, X
-Adobe Reader,,,,, X,,,
+Adobe Reader,,, X,, X,,,
 Adobe Shockwave Player, X, X, X,,,, X, X
 ArcGIS Desktop 10.2.2, X, X,,,,, X, X
 Artemis, X, X,,,,, X, X
@@ -18,31 +18,32 @@ Corpscon, X, X,,,,, X, X
 Distance, X, X,,,,, X, X
 DnaSP, X, X,,,,, X, X
 DNRGPS, X, X,,,,, X, X
-Dreamweaver CS6 (Adobe), X, X, X, X,, X, X, X
+Dreamweaver CS6 (Adobe), X, X,, X,, X, X, X
 DVD Player,,,, X,, X,,
 EndNote X3,,,, X,, X,,
 EndNote X4, X, X,,,,, X, X
 Evernote v., X, X,,,,, X, X
-Excel 2013 (Microsoft Office), X, X, X,,,, X, X
+Excel 2013 (Microsoft Office), X, X,,,,, X, X
 Excel 2011 (Microsoft Office),,,, X,, X,,
 Excel Viewer,,,,, X,,,
 FileZilla (FTP client), X, X, X, X,, X, X, X
 Firefox (Mozilla), X, X, X, X, X, X, X, X
-Fireworks CS6 (Adobe), X, X, X, X,, X, X, X
-Flash CS6 (Adobe), X, X, X, X,, X, X, X
-Flash Player, X, X, X, X, X, X, X, X
+Fireworks CS5.5 (Adobe),,, X,,,,,
+Fireworks CS6 (Adobe), X, X,, X,, X, X, X
+Flash CS6 (Adobe), X, X,, X,, X, X, X
+Flash Player, X, X, X,,,, X, X
 Garage Band,,,, X,, X,,
 Google Chrome, X, X, X, X, X, X, X, X
 Google Earth, X, X,,,,, X, X
-Illustrator CS6 (Adobe), X, X, X, X,, X, X, X
+Illustrator CS6 (Adobe), X, X,, X,, X, X, X
 ImageJ, X, X,,,,, X, X
 iMovie,,,, X,, X,,
-InDesign CS6 (Adobe), X, X, X, X,, X, X, X
+InDesign CS6 (Adobe), X, X,, X,, X, X, X
 Inverse-Forward, X, X,,,,, X, X
 iPhoto,,,, X,, X,,
-Java, X, X, X, X, X, X, X, X
+Java, X, X,,, X,, X, X
 JMP 10, X, X,,,,, X, X
-Kerberos Ticket Viewer, X, X, X, X, X, X, X, X
+Kerberos Ticket Viewer, X, X, X,,,, X, X
 Keynote,,,, X,, X,,
 LDNe, X, X,,,,, X, X
 Manifold System, X, X,,,,, X, X
@@ -53,7 +54,7 @@ Mauve, X, X,,,,, X, X
 Maxima, X, X,,,,, X, X
 Mendelay Desktop, X, X,,,,, X, X
 MEGA 6, X, X,,,,, X, X
-Microsoft Silverlight, X, X, X, X, X, X, X, X
+Microsoft Silverlight, X, X, X,, X,, X, X
 Microsoft Visual C++ 2010 Express, X, X,,,,, X, X
 MINITAB 16 (Windows), X, X,,,,, X, X
 MiKTeX 2.9, X, X,,,,, X, X
@@ -69,14 +70,14 @@ Oracle Express 11g, X,,,,,,,
 OSX 10,,,, X,, X,,
 Pages,,,, X,, X,,
 Palisades DecisionTools, X, X,,,,, X, X
-Photoshop CS6 (Adobe), X, X, X, X,, X, X, X
+Photoshop CS6 (Adobe), X, X,, X,, X, X, X
 PMP70, X, X,,,,, X, X
 Populus, X, X,,,,, X, X
-PowerPoint 2013 (Microsoft Office), X, X, X,,,, X, X
+PowerPoint 2013 (Microsoft Office), X, X,,,,, X, X
 PowerPoint 2011 (Microsoft Office),,,, X,, X,,
 PowerPoint Viewer,,,,, X,,,
 Premier Literacy Suite 32 Bit, X, X,,,,, X, X
-Publisher 2013 (Microsoft Office), X, X, X,,,, X, X
+Publisher 2013 (Microsoft Office), X, X,,,,, X, X
 Python, X, X,,,,, X, X
 QGIS 2.4, X, X,,,,, X, X
 QuickBooks Pro 2014,,, X,,,,,
@@ -84,14 +85,13 @@ Quicktime Player, X, X, X, X, X, X, X, X
 R 3.1.1 for Windows, X, X,,,,, X, X
 RealPlayer 17.0.10, X, X,,,,, X, X
 RefWorks Write-N-Cite III, X, X,,,,, X, X
-Remote Desktop, X, X, X, X, X, X, X, X
+Remote Desktop, X, X,, X,, X, X, X
 RStudio, X, X,,,,, X, X
 RUSLE2, X, X,,,,, X, X
 Safari,,,, X,, X,,
 SAS 9.4 (Windows), X, X,,,,, X, X
 SAS Enterprise Guide, X, X,,,,, X, X
 SheepSim, X, X,,,,, X, X
-SPSS 22, X, X,,,,, X, X
 Stand Visualization System, X, X,,,,, X, X
 STATA Intercooled 13 (Windows), X, X,,,,, X, X
 Stewplan 1.2, X, X,,,,, X, X
@@ -102,9 +102,9 @@ Vensim Model Reader, X, X,,,,, X, X
 Vensim PLE, X, X,,,,, X, X
 VLC Media Player, X, X, X,, X,, X, X
 Vortex 9.99, X, X,,,,, X, X
-Windows 7 Enterprise 64 bit, X, X, X,, X,, X, X
-Window-Eyes 8.4, X, X,,,,, X, X
-Word 2013 (Microsoft Office), X, X, X,,,, X, X
+Windows 7 Enterprise 64 bit, X, X,,,,, X, X
+Window-Eyes,8.4, X, X,,,,, X, X
+Word 2013 (Microsoft Office), X, X,,,,, X, X
 Word 2011 (Microsoft Office),,,, X,, X,,
 Word Viewer,,,,, X,,,
-Zotero, X, X,, X,, X, X, X
+Zotero, X, X, X,, X,, X, X
