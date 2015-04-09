@@ -2,10 +2,10 @@ Software Name,B30A PCs,B30B PCs,Circ Dell Laptops,Circ Macbook Pros,Email Kiosks
 ,,,,,,,,
 7-Zip, X, X,,,,, X, X
 Access 2013 (Microsoft Office), X, X,,,,, X, X
-Acrobat CS6 (Adobe), X, X,, X,, X, X, X
+Acrobat CS6 (Adobe), X, X,,,, X, X, X
 Active Perl, X, X,,,,, X, X
 ADMB, X, X,,,,, X, X
-Adobe Reader,,, X,, X,,,
+Adobe Reader,,, X, X, X,,,
 Adobe Shockwave Player, X, X, X,,,, X, X
 ArcGIS Desktop 10.2.2, X, X,,,,, X, X
 Artemis, X, X,,,,, X, X
@@ -18,9 +18,9 @@ Corpscon, X, X,,,,, X, X
 Distance, X, X,,,,, X, X
 DnaSP, X, X,,,,, X, X
 DNRGPS, X, X,,,,, X, X
-Dreamweaver CS6 (Adobe), X, X,, X,, X, X, X
+Dreamweaver CS6 (Adobe), X, X,,,, X, X, X
 DVD Player,,,, X,, X,,
-EndNote X3,,,, X,, X,,
+EndNote X3,,,,,, X,,
 EndNote X4, X, X,,,,, X, X
 Evernote v., X, X,,,,, X, X
 Excel 2013 (Microsoft Office), X, X,,,,, X, X
@@ -28,17 +28,16 @@ Excel 2011 (Microsoft Office),,,, X,, X,,
 Excel Viewer,,,,, X,,,
 FileZilla (FTP client), X, X, X, X,, X, X, X
 Firefox (Mozilla), X, X, X, X, X, X, X, X
-Fireworks CS5.5 (Adobe),,, X,,,,,
-Fireworks CS6 (Adobe), X, X,, X,, X, X, X
-Flash CS6 (Adobe), X, X,, X,, X, X, X
+Fireworks CS6 (Adobe), X, X,,,, X, X, X
+Flash CS6 (Adobe), X, X,,,, X, X, X
 Flash Player, X, X, X,,,, X, X
 Garage Band,,,, X,, X,,
 Google Chrome, X, X, X, X, X, X, X, X
 Google Earth, X, X,,,,, X, X
-Illustrator CS6 (Adobe), X, X,, X,, X, X, X
+Illustrator CS6 (Adobe), X, X,,,, X, X, X
 ImageJ, X, X,,,,, X, X
 iMovie,,,, X,, X,,
-InDesign CS6 (Adobe), X, X,, X,, X, X, X
+InDesign CS6 (Adobe), X, X,,,, X, X, X
 Inverse-Forward, X, X,,,,, X, X
 iPhoto,,,, X,, X,,
 Java, X, X,,, X,, X, X
@@ -70,7 +69,7 @@ Oracle Express 11g, X,,,,,,,
 OSX 10,,,, X,, X,,
 Pages,,,, X,, X,,
 Palisades DecisionTools, X, X,,,,, X, X
-Photoshop CS6 (Adobe), X, X,, X,, X, X, X
+Photoshop CS6 (Adobe), X, X,,,, X, X, X
 PMP70, X, X,,,,, X, X
 Populus, X, X,,,,, X, X
 PowerPoint 2013 (Microsoft Office), X, X,,,,, X, X
@@ -107,4 +106,4 @@ Window-Eyes, X, X,,,,, X, X
 Word 2013 (Microsoft Office), X, X,,,,, X, X
 Word 2011 (Microsoft Office),,,, X,, X,,
 Word Viewer,,,,, X,,,
-Zotero, X, X, X,, X,, X, X
+Zotero, X, X, X, X, X,, X, X
