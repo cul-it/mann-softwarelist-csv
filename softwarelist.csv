@@ -1,82 +1,71 @@
 Software Name,B30A PCs,B30B PCs,Circ Dell Laptops,Circ Macbook Pros,Email Kiosks,iMacs,Research PCs,Stone Classroom PCs
 ,,,,,,,,
-7-Zip, X, X,,,,, X, X
+7-Zip, X, X, X,, X,, X, X
 Access 2013 (Microsoft Office), X, X,,,,, X, X
-Acrobat Pro (Adobe), X, X,,,, X, X, X
-Adobe Reader,,, X, X, X,,,
+Acrobat Pro (Adobe), X, X, X, X,, X, X, X
+Adobe Reader,,,,, X,,,
 ArcGIS Desktop 10.3.1, X, X,,,,, X, X
 Artemis, X, X,,,,, X, X
 AutoCAD, X, X,,,,, X, X
 ChemOffice 2015, X, X,,,,, X, X
 CBGP -GeneClass2, X, X,,,,, X, X
 Corpscon, X, X,,,,, X, X
+Density, X, X,,,,, X, X
 Distance, X, X,,,,, X, X
 DnaSP, X, X,,,,, X, X
 DNRGPS, X, X,,,,, X, X
-Dreamweaver (Adobe), X, X,,,, X, X, X
+Dreamweaver (Adobe), X, X,,,,, X, X
 DVD Player,,,, X,, X,,
-EndNote X3,,,,,, X,,
-EndNote X7, X, X,,,,, X, X
+EndNote X7, X, X,,,, X, X, X
 Excel 2013 (Microsoft Office), X, X,,,,, X, X
 Excel 2011 (Microsoft Office),,,, X,, X,,
 Excel Viewer,,,,, X,,,
 FileZilla (FTP client), X, X, X, X,, X, X, X
 Firefox (Mozilla), X, X, X, X, X, X, X, X
-Fireworks (Adobe), X, X,,,, X, X, X
-Flash (Adobe), X, X,,,, X, X, X
-Flash Player, X, X, X,,,, X, X
-Garage Band,,,, X,, X,,
+Fireworks (Adobe), X, X,,,,, X, X
+Flash (Adobe), X, X,,,,, X, X
+Flash Player, X, X, X,, X,, X, X
 GenePOP, X, X,,,,, X, X
 GIT for Windows, X, X,,,,, X, X
 Google Chrome, X, X, X, X, X, X, X, X
 Google Earth Pro, X, X,,,,, X, X
 Illustrator (Adobe), X, X,,,, X, X, X
-iMovie,,,, X,, X,,
 InDesign (Adobe), X, X,,,, X, X, X
 Inverse-Forward, X, X,,,,, X, X
-iPhoto,,,, X,, X,,
-Java, X, X,,, X,, X, X
-Kerberos Ticket Viewer, X, X, X,,,, X, X
-Keynote,,,, X,, X,,
+Java, X, X, X, X, X, X, X, X
 Manifold System, X, X,,,,, X, X
 MARK, X, X,,,,, X, X
 Mauve, X, X,,,,, X, X
 Maxima, X, X,,,,, X, X
 MEGA 6, X, X,,,,, X, X
-Microsoft Silverlight, X, X, X,, X,, X, X
+Microsoft Silverlight, X, X, X, X, X, X, X, X
 Microsoft Visual C++ 2010 Express, X, X,,,,, X, X
 MiKTeX 2.9, X, X,,,,, X, X
 NED2, X, X,,,,, X, X
 Net-Print (Mac),,,, X,, X,,
-Net-Print x64, X, X,,,,, X, X
-NotePad ++, X, X,,,,, X, X
+Net-Print x64, X, X, X,, X,, X, X
+NotePad ++, X, X, X,,,, X, X
 NEURON, X, X,,,,, X, X
-Numbers,,,, X,, X,,
-OneNote 2013 (Microsoft Office), X, X, X,,,, X, X
 OpenBUGS, X, X,,,,, X, X
 OSX 10,,,, X,, X,,
-Pages,,,, X,, X,,
-Palisades DecisionTools, X, X,,,,, X, X
 Photoshop (Adobe), X, X,,,, X, X, X
 PMP70, X, X,,,,, X, X
 Populus, X, X,,,,, X, X
 PowerPoint 2013 (Microsoft Office), X, X,,,,, X, X
 PowerPoint 2011 (Microsoft Office),,,, X,, X,,
 PowerPoint Viewer,,,,, X,,,
-Premier Literacy Suite 32 Bit, X, X,,,,, X, X
+Premier Literacy Suite 32 Bit, X, X, X,,,, X, X
 Publisher 2013 (Microsoft Office), X, X,,,,, X, X
 Python, X, X,,,,, X, X
 QGIS, X, X,,,,, X, X
 Quicktime Player,,,, X,, X,,
-R for Windows, X, X,,,,, X, X
+R for Windows, X, X, X, X,, X, X, X
 RStudio, X, X,,,,, X, X
-RealPlayer, X, X,,,,, X, X
-RefWorks Write-N-Cite III, X, X,,,,, X, X
-Remote Desktop, X, X,, X,, X, X, X
+RealPlayer, X, X, X,,,, X, X
 RUSLE2, X, X,,,,, X, X
 Safari,,,, X,, X,,
 SheepSim, X, X,,,,, X, X
-SketchUp, X, X,,,,, X, X
+SketchUp, X, X, X, X,, X, X, X
 STATA Intercooled 13 (Windows), X, X,,,,, X, X
 Stewplan 1.2, X, X,,,,, X, X
 Symantec Endpoint Protection, X, X, X, X, X, X, X, X
@@ -84,10 +73,10 @@ Tropcrop, X, X,,,,, X, X
 U-CARE, X, X,,,,, X, X
 Vensim Model Reader, X, X,,,,, X, X
 Vensim PLE, X, X,,,,, X, X
-VLC Media Player, X, X, X,, X,, X, X
+VLC Media Player, X, X, X, X, X, X, X, X
 Vortex 9.99, X, X,,,,, X, X
-Windows 7 Enterprise 64 bit, X, X,,,,, X, X
+Windows 7 Enterprise 64 bit, X, X, X,,,, X, X
 Window-Eyes, X, X,,,,, X, X
-Word 2013 (Microsoft Office), X, X,,,,, X, X
+Word 2013 (Microsoft Office), X, X, X,,,, X, X
 Word 2011 (Microsoft Office),,,, X,, X,,
 Word Viewer,,,,, X,,,
