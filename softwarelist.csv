@@ -4,20 +4,20 @@ Access 2016 (MS Office), X, X,,,,, X, X
 Acrobat DC (Adobe), X, X, X, X,, X, X, X
 Adobe Reader, ,,,, X,,,
 Adobe After Effects, X, X,,,,, X, X
-Adobe Animate, X, X,,,, X, X, X
-Adobe Audition, X, X,,,, X, X, X
-Adobe Bridge, X, X,,,, X, X, X
-Adobe Dreamweaver, X, X,,,, X, X, X
-Adobe Illustrator, X, X,,,, X, X, X
-Adobe InCopy, X, X,,,, X, X, X
-Adobe InDesign, X, X,,,, X, X, X
-Adobe Lightroom, X, X,,,, X, X, X
-Adobe Media Encoder, X, X,,,, X, X, X
-Adobe Muse, X, X,,,, X, X, X
-Adobe Photoshop, X, X,,,, X, X, X
-Adobe Prelude, X, X,,,, X, X, X
-Adobe Premier Pro, X, X,,,, X, X, X
-Adobe Speed Grade 2015, X, X,,,, X, X, X
+Adobe Animate, X, X,,,,, X, X
+Adobe Audition, X, X,,,,, X, X
+Adobe Bridge, X, X,,,,, X, X
+Adobe Dreamweaver, X, X,,,,, X, X
+Adobe Illustrator, X, X,,,,, X, X
+Adobe InCopy, X, X,,,,, X, X
+Adobe InDesign, X, X,,,,, X, X
+Adobe Lightroom, X, X,,,,, X, X
+Adobe Media Encoder, X, X,,,,, X, X
+Adobe Muse, X, X,,,,, X, X
+Adobe Photoshop, X, X,,,,, X, X
+Adobe Prelude, X, X,,,,, X, X
+Adobe Premier Pro, X, X,,,,, X, X
+Adobe Speed Grade 2015, X, X,,,,, X, X
 ArcGIS Desktop 10.5.1, X, X,,,,, X, X
 ArcGIS Pro 2.0, X, X,,,,, X, X
 Artemis, X, X,,,,, X, X
@@ -50,7 +50,7 @@ Mauve, X, X,,,,, X, X
 Maxima 5.38.1, X, X,,,,, X, X
 MEGA 7, X, X,,,,, X, X
 Microsoft Edge, X, X,,,,, X, X
-Microsoft Silverlight, X, X, X, X, X, X, X, X
+Microsoft Silverlight, X, X,,,,, X, X
 MiKTeX 2.9, X, X,,,,, X, X
 NED2, X, X,,,,, X, X
 Net-Print (Mac),,,, X,, X,,
@@ -70,13 +70,13 @@ Premier Literacy Suite 32 Bit, X, X, X,,,, X, X
 Publisher 2016 (MS Office), X, X,,,,, X, X
 Python, X, X,,,,, X, X
 QGIS, X, X,,,,, X, X
-R 3.4.1, X, X, X, X,, X, X, X
+R 3.4.1, X, X, X, X,,, X, X
 RStudio 3.4.1, X, X,,,,, X, X
 RealPlayer, X, X, X,,,, X, X
 RUSLE2, X, X,,,,, X, X
 Safari,,,, X,, X,,
 SheepSim, X, X,,,,, X, X
-SketchUp 2017, X, X, X, X,, X, X, X
+SketchUp 2017, X, X, X, X,,, X, X
 STATA 15 (Windows), X, X,,,,, X, X
 Tropcrop 2.39.1, X, X,,,,, X, X
 Vensim Model Reader, X, X,,,,, X, X
