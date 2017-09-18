@@ -48,7 +48,7 @@ JMP 13, X, X,,,,, X, X
 Manifold 8, X, X,,,,, X, X
 MARK 8.2, X, X,,,,, X, X
 Mauve, X, X,,,,, X, X
-Maxima 5.38.1, X, X,,,,, X, X
+Maxima 5.40.0, X, X,,,,, X, X
 MEGA 7, X, X,,,,, X, X
 Microsoft Edge, X, X,,,,, X, X
 Microsoft Silverlight, X, X,,,, X, X, X
@@ -79,6 +79,7 @@ Safari,,,, X,, X,,
 SheepSim, X, X,,,,, X, X
 SketchUp 2017, X, X, X, X,, X, X, X
 STATA 15 (Windows), X, X,,,,, X, X
+Stella Professional 1.4.1,,X,,,,,X
 Tropcrop 2.39.1, X, X,,,,, X, X
 Vensim Model Reader, X, X,,,,, X, X
 Vensim PLE, X, X,,,,, X, X
