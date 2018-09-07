@@ -1,13 +1,15 @@
 Software Name,B30A PCs,B30B PCs,Circ Dell Laptops,Circ Macbook Pros,Email Kiosks,iMacs,Research PCs,Stone Classroom PCs
 7-Zip, X, X, X,, X,, X, X
-Access 2016 (MS Office), X, X,,,,, X, X
-Acrobat DC (Adobe), X, X, X, X,, X, X, X
-Adobe Reader, ,,,, X,,,
+Access 2016 (MS Office), X, X, X,,,, X, X
+Adobe Acrobat DC, X, X, X, X,, X, X, X
 Adobe After Effects, X, X,,,,, X, X
 Adobe Animate, X, X,,,,, X, X
 Adobe Audition, X, X,,,,, X, X
 Adobe Bridge, X, X,,,,, X, X
 Adobe Dreamweaver, X, X,,,,, X, X
+Adobe Fireworks, X, X,,,,, X, X
+Adobe Flash, X, X,,,,, X, X
+Adobe Flash Builder, X, X,,,,, X, X
 Adobe Illustrator, X, X,,,, X, X, X
 Adobe InCopy, X, X,,,,, X, X
 Adobe InDesign, X, X,,,, X, X, X
@@ -17,66 +19,67 @@ Adobe Muse, X, X,,,,, X, X
 Adobe Photoshop, X, X,,,, X, X, X
 Adobe Prelude, X, X,,,,, X, X
 Adobe Premier Pro, X, X,,,,, X, X
+Adobe Reader, ,,,, X,,,
 Adobe Speed Grade 2015, X, X,,,,, X, X
 Anaconda, X, X,,,,, X, X
 ArcGIS Desktop 10.5.1, X, X,,,,, X, X
-ArcGIS Pro 2.0, X, X,,,,, X, X
+ArcGIS Pro 2.2, X, X,,,,, X, X
 Artemis, X, X,,,,, X, X
-Autodesk (AutoCAD) 2018, X, X,,,,, X, X
-CBGP -GeneClass2, X, X,,,,, X, X
+Audacity,,,, X,,,,
+Autodesk (AutoCAD) 2019, X, X,,,,, X, X
+CBGP - GeneClass2, X, X,,,,, X, X
 Corpscon, X, X,,,,, X, X
 Density 5, X, X,,,,, X, X
-Distance 6.2, X, X,,,,, X, X
+Distance 7.1, X, X,,,,, X, X
 DNRGPS, X, X,,,,, X, X
 DVD Player,,,, X,, X,,
 EasyPop, X, X,,,,, X, X
 EndNote X7,,,,,, X,,
-EndNote X8, X, X,,,,, X, X
+EndNote X8, X, X,, X,,, X, X
 Evernote, X, X,,,,, X, X
-Excel 2016 (MS Office), X, X,,,,, X, X
-Excel 2011 (MS Office),,,, X,, X,,
+Excel 2016 (MS Office), X, X, X, X,,, X, X
 Excel Viewer,,,,, X,,,
 FileZilla (FTP client), X, X, X, X,, X, X, X
 Firefox (Mozilla), X, X, X, X, X, X, X, X
-Fireworks (Adobe), X, X,,,,, X, X
-Flash (Adobe), X, X,,,,, X, X
 GenePOP, X, X,,,,, X, X
-GIT for Windows, X, X,,,,, X, X
+GIT for Windows, X, X, X,,,, X, X
+GitHub Desktop, X, X, X,,,, X, X
 Google Chrome, X, X, X, X, X, X, X, X
 Google Earth Pro, X, X,,,,, X, X
+Horos,,,, X,,,,
+iMovie,,,, X,,,,
 Inverse 3D-Forward 3D, X, X,,,,, X, X
-Internet Explorer 11, X, X,,,,, X, X
+Internet Explorer 11, X, X, X,,,, X, X
 Java, X, X, X, X, X, X, X, X
-JMP 13, X, X,,,,, X, X
+JAWS, X, X, X,,,, X, X
+JMP 14, X, X,,,,, X, X
 MARK 8.2, X, X,,,,, X, X
 Mauve, X, X,,,,, X, X
 Maxima 5.40.0, X, X,,,,, X, X
 MEGA 7, X, X,,,,, X, X
-Microsoft Edge, X, X,,,,, X, X
-Microsoft Silverlight, X, X,,,, X, X, X
-MiKTeX 2.9, X, X,,,,, X, X
+Microsoft Edge, X, X, X,,,, X, X
+MiKTeX 2.9, X, X, X,,,, X, X
 NED2, X, X,,,,, X, X
 Net-Print (Mac),,,, X,, X,,
 Net-Print x64, X, X, X,, X,, X, X
 NEURON 7.4, X, X,,,,, X, X
 NotePad ++, X, X, X,,,, X, X
-OneNote 2016 (MS Office), X, X,,,,, X, X
+OneNote 2016 (MS Office), X, X, X, X,,, X, X
 OpenBUGS, X, X,,,,, X, X
 OSX 10,,,, X,, X,,
 Photoshop (Adobe), X, X,,,, X, X, X
 PMP7, X, X,,,,, X, X
 Populus, X, X,,,,, X, X
-PowerPoint 2016 (MS Office), X, X,,,,, X, X
-PowerPoint 2011 (MS Office),,,, X,, X,,
+PowerPoint 2016 (MS Office), X, X, X, X,,, X, X
 PowerPoint Viewer,,,,, X,,,
-Premier Literacy Suite 32 Bit, X, X, X,,,, X, X
-PSPP, X, X,,,,, X, X
-Publisher 2016 (MS Office), X, X,,,,, X, X
+Premier Literacy Suite 32 Bit, X, X, X, X,,, X, X
+PSPP, X, X, X,,,, X, X
+Publisher 2016 (MS Office), X, X, X,,,, X, X
 PuTTY, X, X,,,,, X, X
 Python, X, X,,,,, X, X
-QGIS, X, X,,,,, X, X
-R 3.4.1, X, X, X, X,, X, X, X
-RStudio 3.4.1, X, X,,,,, X, X
+QGIS 3.2.1, X, X,,,,, X, X
+R 3.5.1, X, X, X, X,, X, X, X
+RStudio 1.1.453, X, X, X, X,,, X, X
 RealPlayer, X, X, X,,,, X, X
 Rhino 5, X, X,,,,, X, X
 RUSLE2, X, X,,,,, X, X
@@ -84,15 +87,16 @@ Safari,,,, X,, X,,
 SAP Lumira, X, X,,,,, X, X
 SAPGUI, X, X,,,,, X, X
 SheepSim, X, X,,,,, X, X
-SketchUp 2017, X, X, X, X,, X, X, X
-STATA 15 (Windows), X, X,,,,, X, X
-Stella Professional 1.4.1,, X,,,,,, X
+Silverlight (Microsoft), X, X, X,,, X, X, X
+SketchUp 2017, X, X,,,, X, X, X
+STATA 15 (Windows), X, X, X,,,, X, X
+Stella Professional 1.4.1, X, X,,,,, X, X
 Stewplan 1.2, X, X,,,,, X, X
-Tropcrop 2.39.1, X, X,,,,, X, X
+Tropcrop 2.40, X, X,,,,, X, X
 Vensim Model Reader, X, X,,,,, X, X
 Vensim PLE, X, X,,,,, X, X
 VLC Media Player, X, X, X, X, X, X, X, X
 Vortex 10.8.2, X, X,,,,, X, X
-Word 2016 (MS Office), X, X, X,,,, X, X
-Word 2011 (MS Office),,,, X,, X,,
+Word 2016 (MS Office), X, X, X, X,,, X, X
 Word Viewer,,,,, X,,,
+Xcode,,,, X,,,,
