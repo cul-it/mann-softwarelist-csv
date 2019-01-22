@@ -2,26 +2,26 @@ Software Name,B30A PCs,B30B PCs,Circ Dell Laptops,Circ Macbook Pros,Email Kiosks
 7-Zip, X, X, X,, X,, X, X
 Access 2016 (MS Office), X, X, X,,,, X, X
 Adobe Acrobat DC, X, X, X, X,, X, X, X
-Adobe After Effects, X, X,,,,, X, X
-Adobe Animate, X, X,,,,, X, X
-Adobe Audition, X, X,,,,, X, X
-Adobe Bridge, X, X,,,,, X, X
-Adobe Dreamweaver, X, X,,,,, X, X
-Adobe Fireworks, X, X,,,,, X, X
+Adobe After Effects 0217, X, X,,,,, X, X
+Adobe Animate 2017, X, X,,,,, X, X
+Adobe Audition 2017, X, X,,,,, X, X
+Adobe Bridge 2017, X, X,,,,, X, X
+Adobe Dreamweaver 2017, X, X,,,,, X, X
+Adobe Fireworks CS6, X, X,,,,, X, X
 Adobe Flash, X, X,,,,, X, X
-Adobe Flash Builder, X, X,,,,, X, X
-Adobe Illustrator, X, X,,,, X, X, X
-Adobe InCopy, X, X,,,,, X, X
-Adobe InDesign, X, X,,,, X, X, X
-Adobe Lightroom, X, X,,,,, X, X
-Adobe Media Encoder, X, X,,,,, X, X
-Adobe Muse, X, X,,,,, X, X
-Adobe Photoshop, X, X,,,, X, X, X
-Adobe Prelude, X, X,,,,, X, X
-Adobe Premier Pro, X, X,,,,, X, X
+Adobe Flash Builder 4.7, X, X,,,,, X, X
+Adobe Illustrator 2017, X, X,,,, X, X, X
+Adobe InCopy 2017, X, X,,,,, X, X
+Adobe InDesign 2017, X, X,,,, X, X, X
+Adobe Lightroom , X, X,,,,, X, X
+Adobe Media Encoder 2017, X, X,,,,, X, X
+Adobe Muse 2017, X, X,,,,, X, X
+Adobe Photoshop 2017, X, X,,,, X, X, X
+Adobe Prelude 2017, X, X,,,,, X, X
+Adobe Premier Pro 2017, X, X,,,,, X, X
 Adobe Reader, ,,,, X,,,
 Adobe Speed Grade 2015, X, X,,,,, X, X
-Anaconda, X, X,,,,, X, X
+Anaconda 3, X, X,,,,, X, X
 ArcGIS Desktop 10.5.1, X, X,,,,, X, X
 ArcGIS Pro 2.2, X, X,,,,, X, X
 Artemis, X, X,,,,, X, X
@@ -40,7 +40,7 @@ Evernote, X, X,,,,, X, X
 Excel 2016 (MS Office), X, X, X, X,,, X, X
 Excel Viewer,,,,, X,,,
 FileZilla (FTP client), X, X, X, X,, X, X, X
-Firefox (Mozilla), X, X, X, X, X, X, X, X
+Firefox 60 ESR (Mozilla), X, X, X, X, X, X, X, X
 GenePOP, X, X,,,,, X, X
 GIT for Windows, X, X, X,,,, X, X
 GitHub Desktop, X, X, X,,,, X, X
@@ -50,8 +50,8 @@ Horos,,,, X,,,,
 iMovie,,,, X,,,,
 Inverse 3D-Forward 3D, X, X,,,,, X, X
 Internet Explorer 11, X, X, X,,,, X, X
-Java, X, X, X, X, X, X, X, X
-JAWS, X, X, X,,,, X, X
+Java 8, X, X, X, X, X, X, X, X
+JAWS 18, X, X, X,,,, X, X
 JMP 14, X, X,,,,, X, X
 MARK 8.2, X, X,,,,, X, X
 Mauve, X, X,,,,, X, X
@@ -76,22 +76,23 @@ Premier Literacy Suite 32 Bit, X, X, X, X,,, X, X
 PSPP, X, X, X,,,, X, X
 Publisher 2016 (MS Office), X, X, X,,,, X, X
 PuTTY, X, X,,,,, X, X
-Python, X, X,,,,, X, X
+Python 3.6.1, X, X,,,,, X, X
 QGIS 3.2.1, X, X,,,,, X, X
-R 3.5.1, X, X, X, X,, X, X, X
-RStudio 1.1.453, X, X, X, X,,, X, X
-RealPlayer, X, X, X,,,, X, X
-Rhino 5, X, X,,,,, X, X
+R 3.5.2, X, X, X, X,, X, X, X
+RStudio 1.1.463, X, X, X, X,,, X, X
+Rhino 6, X, X,,,,, X, X
 RUSLE2, X, X,,,,, X, X
 Safari,,,, X,, X,,
-SAP Lumira, X, X,,,,, X, X
-SAPGUI, X, X,,,,, X, X
+SAP Lumira 1.31.8, X, X,,,,, X, X
+SAPGUI 7.50, X, X,,,,, X, X
 SheepSim, X, X,,,,, X, X
 Silverlight (Microsoft), X, X, X,,, X, X, X
 SketchUp 2017, X, X,,,, X, X, X
 STATA 15 (Windows), X, X, X,,,, X, X
 Stella Professional 1.4.1, X, X,,,,, X, X
 Stewplan 1.2, X, X,,,,, X, X
+Tableau Desktop Professional 2018, X, X,,,,, X, X
+Tableau Prep 2019, X, X,,,,, X, X
 Tropcrop 2.40, X, X,,,,, X, X
 Vensim Model Reader, X, X,,,,, X, X
 Vensim PLE, X, X,,,,, X, X
