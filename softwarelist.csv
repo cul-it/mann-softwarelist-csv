@@ -78,6 +78,7 @@ PSPP, X, X, X,,,, X, X
 Publisher 2016 (MS Office), X, X, X,,,, X, X
 PuTTY, X, X,,,,, X, X
 Python 3.6.1, X, X,,,,, X, X
+Python 3.7.2, X, X,,,,, X, X
 QGIS 3.2.1, X, X,,,,, X, X
 R 3.5.2, X, X, X, X,, X, X, X
 RStudio 1.1.463, X, X, X, X,,, X, X
@@ -93,7 +94,6 @@ SketchUp 2017, X, X,,,, X, X, X
 STATA 15 (Windows), X, X, X,,,, X, X
 Stella Professional 1.4.1, X, X,,,,, X, X
 Stewplan 1.2, X, X,,,,, X, X
-Tableau Desktop Professional 2018, X, X,,,,, X, X
 Tableau Prep 2019, X, X,,,,, X, X
 Tropcrop 2.40, X, X,,,,, X, X
 Vensim Model Reader, X, X,,,,, X, X
