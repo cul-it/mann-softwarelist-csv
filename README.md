@@ -1,4 +1,7 @@
-# mann-softwarelist-csv
+# DEPRECATED!
+As of 2021-04-01, the Mann website has migrated to Wordpress and the software list is _automagically_ managed via Vue app & Sassafras API.
+
+## mann-softwarelist-csv
 
 > Software list management for Mann website
 
